@@ -17,10 +17,10 @@ Follow the steps below to run this project locally.
 git clone https://github.com/amanvermalmv211/frontendfimga
 
 # Navigate into the project directory
-cd project-name
+cd frontendfimga
 
-# 4. Install dependencies
+# Install dependencies
 npm install
 
-# 5. Start the development server
+# Start the development server
 npm run dev
